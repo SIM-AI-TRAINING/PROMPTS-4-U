@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Prompts 4 U',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -91,8 +91,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://system-in-motion.com/s',
+            label: 'System in Motion',
             position: 'right',
           },
         ],
