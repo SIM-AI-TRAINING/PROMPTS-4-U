@@ -21,3 +21,15 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+gonzague:
+  name: Gonzague PATINIER
+  title: AI Coach
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-gonzague-patinier-articles'
+  socials:
+    linkedin: gonzaguepatinier
+    github: gonzague.patinier

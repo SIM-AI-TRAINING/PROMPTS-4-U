@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Prompts 4 U',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Art of Prompt Engineering or how to talk to AI',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -77,7 +77,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Prompts 4 U',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -87,11 +87,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Prompts Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://system-in-motion.com/s',
+            href: 'https://system-in-motion.com/',
             label: 'System in Motion',
             position: 'right',
           },
@@ -112,17 +112,17 @@ const config = {
           {
             title: 'Community',
             items: [
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              // },
+              // {
+              //   label: 'Discord',
+              //   href: 'https://discordapp.com/invite/docusaurus',
+              // },
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@system-in-motion',
               },
             ],
           },
@@ -133,10 +133,10 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+              // {
+              //   label: 'GitHub',
+              //   href: 'https://github.com/facebook/docusaurus',
+              // },
             ],
           },
         ],
