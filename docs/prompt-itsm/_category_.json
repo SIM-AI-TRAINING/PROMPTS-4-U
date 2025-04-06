@@ -1,0 +1,8 @@
+{
+  "label": "Prompt - ITSM",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Prompts for ITSM Practitioners"
+  }
+}
