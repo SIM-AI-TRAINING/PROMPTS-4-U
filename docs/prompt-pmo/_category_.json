@@ -1,8 +1,8 @@
 {
   "label": "Prompt - PMO",
-  "position": 2,
+  "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Prompts for Project Manager / PMO professionals"
   }
 }

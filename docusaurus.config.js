@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Prompts 4 U',
-  tagline: 'Art of Prompt Engineering or how to talk to AI',
+  tagline: 'ART of Prompt - How to talk to AI',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -79,7 +79,7 @@ const config = {
       navbar: {
         title: 'Prompts 4 U',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Prompts 4 U',
           src: 'img/logo.svg',
         },
         items: [
@@ -94,6 +94,13 @@ const config = {
             href: 'https://system-in-motion.com/',
             label: 'System in Motion',
             position: 'right',
+          },
+          {
+            label: 'Slides',
+            href: '/reveal/index.html',
+            position: 'right',
+            target: '_blank',           // 👉 open in new tab
+            rel: 'noopener noreferrer', // 🔐 for security
           },
         ],
       },
@@ -123,6 +130,10 @@ const config = {
               {
                 label: 'Youtube',
                 href: 'https://www.youtube.com/@system-in-motion',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/system-in-motion',
               },
             ],
           },
