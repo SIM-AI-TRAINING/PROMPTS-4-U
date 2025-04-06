@@ -4,16 +4,11 @@ facebook:
   description: Facebook tag description
 
 hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+  label: LinkedIn
+  permalink: /linkedin
+  description: LinkedIn tag description
 
 docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+  label: System In Motion
+  permalink: /system-in-motion
+  description: System In Motion tag description

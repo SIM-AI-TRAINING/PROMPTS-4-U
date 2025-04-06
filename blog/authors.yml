@@ -1,32 +1,8 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
-
 gonzague:
   name: Gonzague PATINIER
   title: AI Coach
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+  url: https://www.ppp-partners.com
+  image_url: https://media.licdn.com/dms/image/v2/D5603AQH4_DVTGOImrw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1682336417636?e=1749081600&v=beta&t=38gWGKmYRTII_L2kqYgmU3BRLzjGQgnAd-6b_uLS-IE
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/all-gonzague-patinier-articles'
