@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprompts_4_u=self.webpackChunkprompts_4_u||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/PROMPTS-4-U/blog","blogTitle":"Blog","authorsListPath":"/PROMPTS-4-U/blog/authors"}')}}]);

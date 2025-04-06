@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprompts_4_u=self.webpackChunkprompts_4_u||[]).push([[899],{2921:s=>{s.exports=JSON.parse('{"tags":[{"label":"AI","permalink":"/PROMPTS-4-U/blog/tags/ai","count":1}]}')}}]);
